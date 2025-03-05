@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ALL_BUILD", "ALL_BUILD.vcxproj", "{00C303D4-6351-39B0-AB64-67D74672E996}"
+	ProjectSection(ProjectDependencies) = postProject
+		{29906797-4966-3072-9E8D-415F63BF24B0} = {29906797-4966-3072-9E8D-415F63BF24B0}
+		{9C7B891F-012B-3AA1-9AB1-B458D1835DE7} = {9C7B891F-012B-3AA1-9AB1-B458D1835DE7}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ZERO_CHECK", "ZERO_CHECK.vcxproj", "{29906797-4966-3072-9E8D-415F63BF24B0}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enkits-populate", "enkits-populate.vcxproj", "{9C7B891F-012B-3AA1-9AB1-B458D1835DE7}"
+	ProjectSection(ProjectDependencies) = postProject
+		{29906797-4966-3072-9E8D-415F63BF24B0} = {29906797-4966-3072-9E8D-415F63BF24B0}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C303D4-6351-39B0-AB64-67D74672E996}.Debug|x64.ActiveCfg = Debug|x64
+		{29906797-4966-3072-9E8D-415F63BF24B0}.Debug|x64.ActiveCfg = Debug|x64
+		{29906797-4966-3072-9E8D-415F63BF24B0}.Debug|x64.Build.0 = Debug|x64
+		{9C7B891F-012B-3AA1-9AB1-B458D1835DE7}.Debug|x64.ActiveCfg = Debug|x64
+		{9C7B891F-012B-3AA1-9AB1-B458D1835DE7}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4410B6FE-8113-346D-AB2F-4D169A754CDF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

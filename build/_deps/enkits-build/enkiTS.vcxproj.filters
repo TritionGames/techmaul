@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\triph\source\repos\cellgame\build\_deps\enkits-src\src\TaskScheduler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\triph\source\repos\cellgame\build\_deps\enkits-src\src\TaskScheduler_c.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\triph\source\repos\cellgame\build\_deps\enkits-src\src\LockLessMultiReadPipe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\triph\source\repos\cellgame\build\_deps\enkits-src\src\TaskScheduler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\triph\source\repos\cellgame\build\_deps\enkits-src\src\TaskScheduler_c.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\_deps\enkits-src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{06B61665-AA2C-3736-9AE7-EB4B8A760947}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FB4BC349-FF55-39F3-ABB2-6CB5D91988BE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

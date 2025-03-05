@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\CMakeFiles\32ca4fc6649b6cfa33f8e31c0eb0d899\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{71CBC6D2-7615-38F3-B4EB-8E2BDDA04405}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

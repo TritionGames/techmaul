@@ -1,0 +1,14 @@
+# Target labels
+ glfw-populate
+# Source files and their labels
+C:/Users/triph/source/repos/cellgame/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate
+C:/Users/triph/source/repos/cellgame/build/_deps/glfw-subbuild/CMakeFiles/401b47fdf9808ebbd147517f1a768156/glfw-populate.rule
+C:/Users/triph/source/repos/cellgame/build/_deps/glfw-subbuild/CMakeFiles/b3f4c294806236d7215d4d7a9a9d3fe7/glfw-populate-complete.rule
+C:/Users/triph/source/repos/cellgame/build/_deps/glfw-subbuild/CMakeFiles/07d59a2cf8a433565cadac71f43389e2/glfw-populate-build.rule
+C:/Users/triph/source/repos/cellgame/build/_deps/glfw-subbuild/CMakeFiles/07d59a2cf8a433565cadac71f43389e2/glfw-populate-configure.rule
+C:/Users/triph/source/repos/cellgame/build/_deps/glfw-subbuild/CMakeFiles/07d59a2cf8a433565cadac71f43389e2/glfw-populate-download.rule
+C:/Users/triph/source/repos/cellgame/build/_deps/glfw-subbuild/CMakeFiles/07d59a2cf8a433565cadac71f43389e2/glfw-populate-install.rule
+C:/Users/triph/source/repos/cellgame/build/_deps/glfw-subbuild/CMakeFiles/07d59a2cf8a433565cadac71f43389e2/glfw-populate-mkdir.rule
+C:/Users/triph/source/repos/cellgame/build/_deps/glfw-subbuild/CMakeFiles/07d59a2cf8a433565cadac71f43389e2/glfw-populate-patch.rule
+C:/Users/triph/source/repos/cellgame/build/_deps/glfw-subbuild/CMakeFiles/07d59a2cf8a433565cadac71f43389e2/glfw-populate-test.rule
+C:/Users/triph/source/repos/cellgame/build/_deps/glfw-subbuild/CMakeFiles/07d59a2cf8a433565cadac71f43389e2/glfw-populate-update.rule

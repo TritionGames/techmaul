@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\_deps\glfw-subbuild\CMakeFiles\07d59a2cf8a433565cadac71f43389e2\glfw-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\_deps\glfw-subbuild\CMakeFiles\07d59a2cf8a433565cadac71f43389e2\glfw-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\_deps\glfw-subbuild\CMakeFiles\07d59a2cf8a433565cadac71f43389e2\glfw-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\_deps\glfw-subbuild\CMakeFiles\07d59a2cf8a433565cadac71f43389e2\glfw-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\_deps\glfw-subbuild\CMakeFiles\07d59a2cf8a433565cadac71f43389e2\glfw-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\_deps\glfw-subbuild\CMakeFiles\07d59a2cf8a433565cadac71f43389e2\glfw-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\_deps\glfw-subbuild\CMakeFiles\07d59a2cf8a433565cadac71f43389e2\glfw-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\_deps\glfw-subbuild\CMakeFiles\07d59a2cf8a433565cadac71f43389e2\glfw-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\_deps\glfw-subbuild\CMakeFiles\b3f4c294806236d7215d4d7a9a9d3fe7\glfw-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\_deps\glfw-subbuild\CMakeFiles\401b47fdf9808ebbd147517f1a768156\glfw-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\_deps\glfw-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\triph\source\repos\cellgame\build\_deps\glfw-subbuild\CMakeFiles\glfw-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B3AF4303-2A5A-39C2-9251-8D4BE34DB967}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

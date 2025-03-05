@@ -1,0 +1,7 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The patch step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+command (connected)=C:/Users/triph/Downloads/cmake-3.31.5-windows-x86_64/cmake-3.31.5-windows-x86_64/bin/cmake.exe;-Dcan_fetch=YES;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/triph/source/repos/cellgame/build/_deps/enkits-subbuild/enkits-populate-prefix/tmp/enkits-populate-gitupdate.cmake
+command (disconnected)=C:/Users/triph/Downloads/cmake-3.31.5-windows-x86_64/cmake-3.31.5-windows-x86_64/bin/cmake.exe;-Dcan_fetch=NO;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;C:/Users/triph/source/repos/cellgame/build/_deps/enkits-subbuild/enkits-populate-prefix/tmp/enkits-populate-gitupdate.cmake
+work_dir=C:/Users/triph/source/repos/cellgame/build/_deps/enkits-src

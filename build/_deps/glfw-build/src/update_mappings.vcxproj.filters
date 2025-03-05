@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\CMakeFiles\2e104ae94539c0d160603635645ec8a5\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\_deps\glfw-src\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\triph\source\repos\cellgame\build\_deps\glfw-src\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\triph\source\repos\cellgame\build\_deps\glfw-src\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\triph\source\repos\cellgame\build\_deps\glfw-build\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{71CBC6D2-7615-38F3-B4EB-8E2BDDA04405}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{06B61665-AA2C-3736-9AE7-EB4B8A760947}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

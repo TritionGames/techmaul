@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/triph/source/repos/cellgame/build/samples/imgui-subbuild/CMakeFiles/imgui-populate"
+		},
+		{
+			"file" : "C:/Users/triph/source/repos/cellgame/build/samples/imgui-subbuild/CMakeFiles/79201381f9a621902e0ac1141d2880a7/imgui-populate.rule"
+		},
+		{
+			"file" : "C:/Users/triph/source/repos/cellgame/build/samples/imgui-subbuild/CMakeFiles/eb26af3e07e4e6075d38ed5eb62d369a/imgui-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/triph/source/repos/cellgame/build/samples/imgui-subbuild/CMakeFiles/07e83327e176e9acdfd356484c6963ea/imgui-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/triph/source/repos/cellgame/build/samples/imgui-subbuild/CMakeFiles/07e83327e176e9acdfd356484c6963ea/imgui-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/triph/source/repos/cellgame/build/samples/imgui-subbuild/CMakeFiles/07e83327e176e9acdfd356484c6963ea/imgui-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/triph/source/repos/cellgame/build/samples/imgui-subbuild/CMakeFiles/07e83327e176e9acdfd356484c6963ea/imgui-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/triph/source/repos/cellgame/build/samples/imgui-subbuild/CMakeFiles/07e83327e176e9acdfd356484c6963ea/imgui-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/triph/source/repos/cellgame/build/samples/imgui-subbuild/CMakeFiles/07e83327e176e9acdfd356484c6963ea/imgui-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/triph/source/repos/cellgame/build/samples/imgui-subbuild/CMakeFiles/07e83327e176e9acdfd356484c6963ea/imgui-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/triph/source/repos/cellgame/build/samples/imgui-subbuild/CMakeFiles/07e83327e176e9acdfd356484c6963ea/imgui-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"imgui-populate"
+		],
+		"name" : "imgui-populate"
+	}
+}

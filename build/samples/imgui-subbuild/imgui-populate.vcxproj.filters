@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\samples\imgui-subbuild\CMakeFiles\07e83327e176e9acdfd356484c6963ea\imgui-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\samples\imgui-subbuild\CMakeFiles\07e83327e176e9acdfd356484c6963ea\imgui-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\samples\imgui-subbuild\CMakeFiles\07e83327e176e9acdfd356484c6963ea\imgui-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\samples\imgui-subbuild\CMakeFiles\07e83327e176e9acdfd356484c6963ea\imgui-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\samples\imgui-subbuild\CMakeFiles\07e83327e176e9acdfd356484c6963ea\imgui-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\samples\imgui-subbuild\CMakeFiles\07e83327e176e9acdfd356484c6963ea\imgui-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\samples\imgui-subbuild\CMakeFiles\07e83327e176e9acdfd356484c6963ea\imgui-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\samples\imgui-subbuild\CMakeFiles\07e83327e176e9acdfd356484c6963ea\imgui-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\samples\imgui-subbuild\CMakeFiles\eb26af3e07e4e6075d38ed5eb62d369a\imgui-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\samples\imgui-subbuild\CMakeFiles\79201381f9a621902e0ac1141d2880a7\imgui-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\triph\source\repos\cellgame\build\samples\imgui-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\triph\source\repos\cellgame\build\samples\imgui-subbuild\CMakeFiles\imgui-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B2F2CA20-B32B-3EEB-A9A6-9A452550355D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
